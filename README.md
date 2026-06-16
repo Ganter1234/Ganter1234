@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ganter - CS2/CS:GO/CSS Plugin Developer
 
-<!--
-**Ganter1234/Ganter1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Experience
+- **5+ years** developing Counter-Strike plugins
+- **Platforms**: Metamod:Source, CounterStrikeSharp, Swiftly, Plugify, SourceMod
+- **Languages**: C#, C++, SourcePawn
 
-Here are some ideas to get you started:
+## 💰 Services & Rates
+- **Custom Plugin Development** - $30-1000+
+- **Complete Server Configurations** for any game mode (Retakes, DM, Arena, Jailbreak, ZE, Surf, KZ, etc.) - $25-500+
+- **Small fixes & consultation**: Contact for pricing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✅ What I Need
+- Clear technical requirements
+- 50% prepayment to start
+
+## 📞 Contact
+- **Discord**: `ganter1234`
+- **Telegram**: `@Ganter1235`
+- **Forum**: [csdevs.net](https://csdevs.net/members/ganter1234.3/)
